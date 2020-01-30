@@ -1,6 +1,6 @@
 console.log("Up and running!");
 let cardOne = "queen";
-let cardTwo = "queen";
-let cardThree = "king";
+let cardTwo = "king";
+let cardThree = "queen";
 let cardFour = "king";
-console.log("User flipped " + cardOne + "," + cardFour + "!");
+console.log("User flipped " + cardOne + " " + cardTwo);
